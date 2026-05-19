@@ -2,15 +2,15 @@
 <h3 align="center">Full-Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KIIT-2023--2027-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Bihar,%20India-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-KIIT-1f2937?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Batch-2023--2027-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Bihar,%20India-4b5563?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Passionate Full-Stack Developer  
+- 💻 Passionate about Full-Stack Development  
 - 🧠 Strong in Data Structures & Algorithms  
 - ⚡ Love building real-world applications  
 
@@ -20,28 +20,27 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=6" height="40"/>
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=6" height="40"/>
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=spring,php&perline=6" height="40"/>
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql&perline=6" height="40"/>
 </p>
 
 ### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,gcp" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,gcp&perline=6" height="40"/>
 </p>
 
 ---
@@ -53,20 +52,13 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitickPandey&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitickPandey&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/ritickpandey/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:23053293@kiit.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
