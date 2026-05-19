@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ritick Pandey 👋
 
-<!--
-**RitickPandey/RitickPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ KIIT (2023–2027)  
+💻 Full-Stack Developer | DSA Enthusiast  
+📍 Bihar, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about building real-world applications  
+- Strong foundation in Data Structures & Algorithms  
+- Experience in Full-Stack Development  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** C, C++, Java, Python  
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** Spring Boot, PHP  
+**Database:** MySQL  
+**Tools:** Git, VS Code, GCP  
+
+---
+
+## 📌 Projects
+
+### 🏥 Doctor Appointment System
+- Full-stack web app with authentication & admin panel  
+- Tech: HTML, CSS, JS, PHP, MySQL  
+
+### 🧠 Breast Cancer Diagnosis
+- Logistic Regression model from scratch  
+- Tech: Python, NumPy, Pandas  
+
+### 🚖 Uber Data Analysis
+- Data analysis & visualization  
+- Tech: Python, Pandas, Matplotlib  
+
+---
+
+## 📫 Connect With Me
+📧 Email: 23053293@kiit.ac.in  
+🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+🌐 Portfolio: YOUR-PORTFOLIO-LINK
