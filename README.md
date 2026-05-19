@@ -40,5 +40,5 @@
 
 ## 📫 Connect With Me
 📧 Email: 23053293@kiit.ac.in  
-🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-🌐 Portfolio: YOUR-PORTFOLIO-LINK
+🔗 LinkedIn: https://www.linkedin.com/in/ritickpandey/
+🌐 Portfolio: https://ritick-portfolio.vercel.app/
